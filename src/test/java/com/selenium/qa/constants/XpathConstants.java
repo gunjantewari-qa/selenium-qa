@@ -6,7 +6,7 @@ public class XpathConstants {
 	// The syntax is: Start with double forward slash followed by tagName followed by square brackets 
 	// containing @attributeName and its value
 
-	public static final String GOOGLE_SIGN_IN_BTN_XPATH = "//a[@id='gb_70']";  
+	public static final String GOOGLE_SIGN_IN_BTN_XPATH = "//a[@id='gb_70']";
 	public static final String GOOGLE_SIGN_IN_INPUT_BOX_XPATH = "//input[@id='identifierId']";
 	
 	// The syntax for using a xpath via text link is
@@ -33,7 +33,7 @@ public class XpathConstants {
  
     //  by using Descendant  finding standard node -
     
-    public static final String GOOGLE_SIGN_IN_INPUT_BOX__Descendant_XPATH = "//div[@id='identifierId']/descendant::div[2]";
+   // public static final String GOOGLE_SIGN_IN_INPUT_BOX__Descendant_XPATH = "//div[@id='identifierId']/descendant::div[2]";
     
    // by using ancestor  finding standard node -
     
